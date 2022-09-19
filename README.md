@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 <a href="https://blog.litefen.com/all/fenplugin-v3.html" target="_blank">
-<img src="data/readme/10004.png" alt="litefen" height="500" width="500"/>
+<img src="resources/readme/10004.png" alt="litefen" height="500" width="500"/>
 </a>
 </p>
 <h1  align="center">粉酱插件v3</h1>
@@ -60,7 +60,7 @@ git clone https://gitee.com/litefen/fenplugin-v3.git
 发送以下命令均可触发</br>
  #cookie详情 #(bot|帮助|使用)(详情|说明使用文档|文档|演示)
 
-<img src="data/readme/帮助文档.png" alt="#bot详情"></br></br>
+<img src="resources/readme/帮助文档.png" alt="#bot详情"></br></br>
 
 </details>
 
@@ -71,13 +71,13 @@ git clone https://gitee.com/litefen/fenplugin-v3.git
 </summary>
 不可以涩涩，涩涩就挨打
 </br>
-<img src="data/readme/涩涩.png" alt="#涩涩"></br></br>
+<img src="resources/readme/涩涩.png" alt="#涩涩"></br></br>
 
 🤹 #偏要|就要|偏要|给我涩涩</br>
 
 都说了不可以，涩涩就禁言五分钟（需要bot是管理员）
 
-<img src="data/readme/就要涩涩.png" alt="#涩涩">
+<img src="resources/readme/就要涩涩.png" alt="#涩涩">
 
 </details>
 
@@ -88,7 +88,7 @@ git clone https://gitee.com/litefen/fenplugin-v3.git
 给发群主女装的通通禁言五分钟（需要是管理员）
 </br>
 （可以添加自己的名字，打开apps\群主写真.js修改正则为自己的名字即可）
-<img src="data/readme/群主女装.png" alt="#群主女装"></br>
+<img src="resources/readme/群主女装.png" alt="#群主女装"></br>
 </details>
 
 <details>
@@ -101,17 +101,17 @@ git clone https://gitee.com/litefen/fenplugin-v3.git
 
 *音频、语音文件`/fenplugin-v3/resources/global/voice/`*
  
-<img src="data/readme/哒哒哒.png" alt="全局">
+<img src="resources/readme/哒哒哒.png" alt="全局">
 </br>
 
 *表情、图片目录`/fenplugin-v3/resources/global/img/`*
  
-<img src="data/readme/吃啥呢.png" alt="全局">
+<img src="resources/readme/吃啥呢.png" alt="全局">
 </br>
 
 *视频文件`/fenplugin-v3/resources/global/video/`*
  
-<img src="data/readme/啊对对对.png" alt="全局">
+<img src="resources/readme/啊对对对.png" alt="全局">
 
 </details>
 
