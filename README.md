@@ -29,7 +29,8 @@
 
 ## 📝 使用说明
 ### 🧰 安装
-
+敬请期待。。。
+<!-- 
 在\yunzai-bot\plugins文件夹打开cmd
 
 使用[github仓库](https://github.com/litefen/fenplugin-v3)
@@ -40,17 +41,12 @@ git clone https://github.com/litefen/fenplugin-v3.git
 
 ```bash
 git clone https://gitee.com/litefen/fenplugin-v3.git
-```
+``` -->
 ### 💻 更新
-
- **暂时更新功能可能有问题，如果有意外请手动更新₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎**
-
-发送#粉酱更新、#粉酱强制更新（如果你对粉酱进行过修改、强制更新会全部失效）
-
-或者在fenplugin-v3目录打开cmd手动git pull
-
+敬请期待。。。
 ## 🤹 当前功能
-
+敬请期待。。。
+<!-- 
 <details>
 <summary>
 📰 #bot详情 #帮助文档
@@ -113,13 +109,11 @@ git clone https://gitee.com/litefen/fenplugin-v3.git
  
 <img src="resources/readme/啊对对对.png" alt="全局">
 
-</details>
+</details> -->
 
 
 ## ⚡️ 可能遇到的问题
-如果启动遇到fenplugin-v3相关的报错，那就删了吧，可能当前版本有bug，因为测试量少，很多bug我也没有注意到,可以去群里反馈 ⚆_⚆
-
-有问题很正常，能跑就行，不能跑那就卸载吧，我还没开发好
-
+敬请期待。。。
 ## 🌈 其他
 
+敬请期待。。。
