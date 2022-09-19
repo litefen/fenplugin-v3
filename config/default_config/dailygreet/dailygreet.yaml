@@ -1,0 +1,64 @@
+# 白名单群号
+whitelist:
+ - 113946226
+ - 893576718
+
+# 请安的时间段 例如6~8点 starthour=6 endhour=7 当starthour=endhour时只在这个小时发
+time:
+ morning:
+  starthour: 6
+  endhour: 7
+  startminute: 0
+  endminute: 59
+  startsecond: 0
+  endsecond: 59
+ noon:
+  starthour: 11
+  endhour: 12
+  startminute: 0
+  endminute: 59
+  startsecond: 0
+  endsecond: 59
+ afternoon:
+  starthour: 17
+  endhour: 18
+  startminute: 0
+  endminute: 59
+  startsecond: 0
+  endsecond: 59
+ night: 
+  starthour: 21
+  endhour: 22
+  startminute: 0
+  endminute: 59
+  startsecond: 0
+  endsecond: 59
+ test:
+  starthour: 23
+  endhour: 23
+  startminute: 47
+  endminute: 48
+  startsecond: 0
+  endsecond: 59
+
+# 对应时间段内的文案
+greetcontent:
+ morning:
+  - "早安~人生的一半~"
+  - "早上好哦~大家要记得吃早饭哦~"
+  - "起床啦~太阳晒屁股咯~快来陪小雪玩吧~"
+  - "小懒虫！快起床！你快要迟到啦~"
+  - "昨晚小雪梦到今天早上不能和大家说早安了呢~呜呜呜"
+ noon:
+  - "午安~也要记得吃午饭哦~不然下午会乏力的~"
+  - "中午好哦~能告诉小雪中午吃的啥嘛~"
+  - "又要吃午饭了呢，但小雪还想再陪大家玩一会~就一会儿~唔，好吧~等吃完饭再陪小雪玩吧~"
+  - "吃午饭啦~再忙也要吃好午饭哦~"
+  - "好香啊~哦~原来是大家在吃午饭呀~小雪...小雪...也想吃~"
+ afternoon:
+  - "太阳下山了呢~麻麻叫小雪回家吃晚饭~哥哥姐姐们也一样吧~"
+  - "夕阳下，哥哥姐姐们陪着小雪玩的画面，真温馨呀~小雪很幸福~哥哥姐姐们要记得吃完饭呀~"
+ night:
+  - "晚上好哦~小雪玩累了~哥哥姐姐们陪着小雪玩应该也累了吧~谢谢哥哥姐姐们陪小雪玩，那早点休息吧~晚安~"
+ test:
+  - "测试消息"

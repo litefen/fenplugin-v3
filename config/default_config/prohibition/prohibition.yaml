@@ -1,0 +1,11 @@
+# 禁言功能配置文件
+- groupid: 893576718
+  words:
+   - word: '我要色色'
+     time: 60
+   - word: '群主照片'
+     time: 120
+- groupid: 113946226
+  words:
+   - word: ','
+     time: 30

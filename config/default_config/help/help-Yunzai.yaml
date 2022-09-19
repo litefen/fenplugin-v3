@@ -1,0 +1,120 @@
+- group: 使用前先绑定
+  list:
+    - icon: 绑定账号
+      title: '#绑定[你的uid] #我的uid'
+      desc: '绑定你的uid 查看绑定情况'
+    - icon: 鸭
+      title: '(体力|ck)帮助 ck代码'
+      desc: '查看体力帮助 查看cookie的js代码'
+    - icon: 爱心指南针
+      title: '#绑定ck 我的ck 删除ck'
+      desc: '绑定cookie 查看绑定的cookie 删除绑定的ck'
+- group: 云崽自带-特殊
+  list:
+    - icon: 饼干
+      title: ''
+      desc: '新人入群欢迎 xxx退群发送通知'
+    - icon: 日记本
+      title: ''
+      desc: '触发表情关键词会发送表情'
+    - icon: 伞
+      title: ''
+      desc: '禁用了私聊，只接收cookie以及抽卡链接'
+    - icon: 锁
+      title: ''
+      desc: '自动同意好友 不是主人拉群就退群'
+- group: 云崽自带-其他
+  list:
+    - icon: 可爱微信
+      title: '#一言 #复读'
+      desc: '随机发送一句名言 复读用户发送的内容，然后撤回'
+    - icon: 星辉
+      title: '十连 十连2 十连武器 十连常驻 定轨'
+      desc: '模拟抽卡，每天十连一次，四点更新'
+    - icon: 拐杖糖
+      title: '#设置xxx别名 #删除别名xxx #xxx别名'
+      desc: '给原神角色设置别名 查看xxx的别名'
+    - icon: wiki
+      title: '攻略帮助 更新xxx攻略[1-4] 设置默认攻略[1-4]'
+      desc: '查看攻略帮助 查看更新后的xxx角色攻略 设置默认攻略'
+- group: 云崽自带-养成
+  list:
+    - icon: 熊猫
+      title: 'xxx突破 #今日素材'
+      desc: '查看xxx角色养成突破素材，来自米游社友人A 查看今日素材'
+    - icon: 养成计算
+      title: '角色养成计算'
+      desc: '查看角色养成计算帮助'
+    - icon: 西瓜冰棍
+      title: 'xxx养成[角色等级] [武器等级] [普攻等级] [战技等级] [爆发等级]'
+      desc: '查看角色养成消耗'
+- group: 云崽自带-记录
+  list:
+    - icon: 蓝绿色糖果
+      title: '记录帮助 (安卓|苹果|电脑)帮助'
+      desc: '分析抽卡记录帮助'
+    - icon: 记录
+      title: '#(txt日志|xlsx|json)文件导入记录'
+      desc: '导入抽卡记录'
+    - icon: 圆形饼干
+      title: '(抽卡|角色|武器|常驻)(分析|统计)'
+      desc: '抽卡记录分析和统计'
+    - icon: excel
+      title: '导出记录 导出记录(excel|xlsx|json)'
+      desc: '导出抽卡记录'
+- group: 云崽自带-原石
+  list:
+    - icon: 打卡
+      title: '#签到 #全部签到'
+      desc: '米游社签到 给所有已绑定ck的用户签到'
+    - icon: 原石
+      title: '#原石x月 #原石 #原石任务 原石统计'
+      desc: '查看札记 保存原石数据 查看原石统计'
+- group: 云崽自带-角色
+  list:
+    - icon: 树脂
+      title: '体力'
+      desc: '查询原神体力'
+    - icon: 鹅
+      title: '#角色详情 #xxx uidxxx #[uid] 角色卡片'
+      desc: '查看角色详情 查看横板角色数据'
+    - icon: abyss
+      title: '#[上期|本期]深渊'
+      desc: '查看深渊数据'
+    - icon: moster
+      title: '[上期|本期]深渊第(九|十|十一|十二)层'
+      desc: '查看深渊数据'
+    - icon: weapon
+      title: '#[五星|四星]武器'
+      desc: '查看武器'
+    - icon: team
+      title: '#(五星|四星|角色背包)'
+      desc: '查看角色数据'
+    - icon: 猴
+      title: '天赋列表 练度统计 (五|四)星列表'
+      desc: '查看所有角色天赋列表和练度统计'
+    - icon: paimon
+      title: '#(宝箱|成就|尘歌壶|家园|声望|探索度)'
+      desc: '查看探索数据'
+- group: 云崽自带-表情
+  list:
+    - icon: 史莱姆
+      title: '#添加xx #删除xx #添加图片 #删除全部'
+      desc: '添加表情xx 删除表情xx 大图表情请用#添加图片 删除全部表情'
+    - icon: 手机
+      title: '#(表情|词条)xx #表情列表'
+      desc: '表情xx 查看表情列表'
+- group: 主人操作云崽
+  list: 
+    - icon: 邮箱
+      title: '#状态 #重启'
+      desc: '查看运行状态 重启云崽'
+    - icon: 告示牌
+      title: '#(运行|错误)日志xx #日志xxx #更新日志'
+      desc: '发送最近xx条日志 搜索含xxx的日志 查看更新日志'
+    - icon: 狗爪包包
+      title: '配置公共查询ck'
+      desc: '配置公共ck'
+    - icon: 红蓝定位
+      title: '#更新 #强制更新 #全部更新'
+      desc: '更新云崽，后加插件名可更新插件 更新云崽包括所有插件'

@@ -1,0 +1,24 @@
+# 开启宵禁时间和提示文案
+opencurfew:
+ time: 
+  hour: 0
+  minute: 57
+  second: 25
+ tip: "小雪下班啦~哥哥姐姐们再见啦~"
+
+# 关闭宵禁时间和提示文案
+closecurfew:
+ time:
+  hour: 6
+  minute: 0
+  second: 25
+ tip: "小雪上线啦~哥哥姐姐们快来陪小雪玩吧~"
+# 白名单群号以及其代理人
+whitegrouplist:
+ - groupid: 113946226
+   agentqq:
+    - 3043956802
+ - groupid: 893576718
+   agentqq:
+    - 2635221375
+    - 893512862
