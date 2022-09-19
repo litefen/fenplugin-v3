@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 <a href="https://blog.litefen.com/all/fenplugin-v3.html" target="_blank">
-<img src="data/readme/10004.gif" alt="litefen" height="500" width="500"/>
+<img src="data/readme/10004.png" alt="litefen" height="500" width="500"/>
 </a>
 </p>
 <h1  align="center">粉酱插件v3</h1>
