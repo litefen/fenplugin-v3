@@ -20,16 +20,15 @@
   <a href="https://github.com/litefen/fenplugin-v3"><b>Github</b></a> | <a href="https://blog.litefen.com/"><b>小粉litefen</b></a>
 </p>
 <br>
-<h1  align="center">💻 开发进度</h1>
-<br>
+## 💻 开发进度
 
-### 2022年9月19 日新建项目文件夹
-
+#### 2022年9月19日 新建项目文件夹
+#### 2022年9月20日 群主涩涩能跑起来了
 <br>
 
 ## 📝 使用说明
 ### 🧰 安装
-敬请期待。。。
+暂不建议安装，敬请期待。。。
 <!-- 
 在\yunzai-bot\plugins文件夹打开cmd
 
