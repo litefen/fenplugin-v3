@@ -36,7 +36,7 @@ export class qunzhu extends plugin {
     ];
     e.reply(msg);
   }
-  //反过来写真群主
+//反过来写真群主
   async nvzhuangqunzhu(e) {
     /** 回复 */
     this.reply('调戏群主，通通禁闭室报道！', true, { at: true })
