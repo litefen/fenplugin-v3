@@ -7,7 +7,7 @@
 <h1  align="center">粉酱插件v3</h1>
 <br>
 <p align="center">
-🤹 <a  href="https://github.com/fenplugin-v3" target="__blank"><b> fenplugin-v3 </b></a>一个<a href="https://github.com/Le-niao/Yunzai-Bot" target="__blank"><b>Yunzai-Bot</b></a>的扩展插件，by <a  href="https://github.com/litefen" target="__blank"><b>litefen</b></a> 🧑‍💻
+🤹 <a  href="https://github.com/litefen/fenplugin-v3" target="__blank"><b> fenplugin-v3 </b></a>一个<a href="https://github.com/Le-niao/Yunzai-Bot" target="__blank"><b>Yunzai-Bot</b></a>的扩展插件，by <a  href="https://github.com/litefen" target="__blank"><b>litefen</b></a> 🧑‍💻
 </p>
 
 <p align="center">
