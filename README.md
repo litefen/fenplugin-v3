@@ -29,19 +29,21 @@
 
 ## 📝 使用说明
 ### 🧰 安装
+
+
 暂不建议安装，敬请期待。。。
-<!-- 
+
 在\yunzai-bot\plugins文件夹打开cmd
 
 使用[github仓库](https://github.com/litefen/fenplugin-v3)
 ```bash
-git clone https://github.com/litefen/fenplugin-v3.git
+git clone --depth=1 https://github.com/litefen/fenplugin-v3.git ./plugins/fenplugin-v3/
 ```
 或者[gitee仓库](https://gitee.com/litefen/fenplugin-v3)
 
 ```bash
-git clone https://gitee.com/litefen/fenplugin-v3.git
-``` -->
+git clone --depth=1 https://gitee.com/litefen/fenplugin-v3.git ./plugins/fenplugin-v3/
+```
 ### 💻 更新
 敬请期待。。。
 ## 🤹 当前功能
