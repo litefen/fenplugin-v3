@@ -11,7 +11,7 @@ export class qunzhu extends plugin {
       priority: 50,
       rule: [
         {
-          reg: '^#*(小粉|群主)(女装|写真|私房|涩涩|色色|泡水|瑟瑟|涩涩，|照片|私房照|女装照|是男同|是男酮)$',
+          reg: '^#*(小粉|群主|䒕粉)(女装|写真|私房|涩涩|色色|泡水|瑟瑟|涩涩，|照片|私房照|女装照|是男同|是男酮)$',
           fnc: 'qunzhuxiezhen'
         }
         ,
@@ -30,7 +30,7 @@ export class qunzhu extends plugin {
     if (e.isGroup) {
       e.group.muteMember(e.user_id, 300)
     }
-    let url = `${_path}/plugins/fenplugin-v3/resources/global/img/番茄炒蛋拳.gif`;
+    let url = `${_path}/plugins/fenplugin-v3/resources/global/img/番茄炒蛋拳.gif`
     let msg = [
       segment.image(url),
     ];
@@ -45,7 +45,7 @@ export class qunzhu extends plugin {
       e.group.muteMember(e.user_id, 300)
     }
 //发送表情包地址
-    let url = `${_path}/plugins/fenplugin-v3/resources/global/img/番茄炒蛋拳.gif`;
+    let url = `${_path}/plugins/fenplugin-v3/resources/global/img/番茄炒蛋拳.gif`
     let msg = [
       segment.image(url),
     ];
