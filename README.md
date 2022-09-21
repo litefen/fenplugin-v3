@@ -33,7 +33,7 @@
 
 暂不建议安装，敬请期待。。。
 
-在\yunzai-bot\plugins文件夹打开cmd
+在\yunzai-bot\执行
 
 使用[github仓库](https://github.com/litefen/fenplugin-v3)
 ```bash
