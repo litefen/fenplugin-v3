@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "仓耳舒圆体W03";
+  src: url("../font/仓耳舒圆体W03.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "仓耳舒圆体W05";
+  src: url("../font/仓耳舒圆体W05.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+body {
+  
+  width: 100%;
+  height: 10%;
+ background-size: 100% ;
+}
+.bt{
+	font-family:"仓耳舒圆体W03";
+	padding-top:20px;
+	text-align: center;
+	font-size:50px;
+	font-weight:bold;
+	padding-bottom:20px;
+background-color:#f9e9e6;	
+}
+.lb{
+	border-radius:5px;
+	font-family:"仓耳舒圆体W03";
+	font-size:22px;
+	font-weight:510;
+	padding-left:10px;
+	padding-bottom:10px;
+	padding-top:10px;
+	padding-right:10px;
+	margin-left:40px;
+	margin-right:40px;
+	color:#878282;
+	background-color:#f9e9e6;
+	display:block;
+}
+
+
+.lb2{
+	border-radius:5px;
+	font-family:"仓耳舒圆体W03";
+	font-size:22px;
+	font-weight:510;
+	padding-left:10px;
+	padding-bottom:10px;
+	padding-top:10px;
+	padding-right:10px;
+	margin-left:40px;
+	margin-right:40px;
+	color:#fff;
+	background-color:#f9e9e6;
+	display:block;
+}
+table{
+     border: none;/*去除默认边框*/
+        border-collapse: collapse;/*合并单元格边框*/
+        margin-left:40px;
+		font-family:"仓耳舒圆体W03";
+	
+    }
+    th,td{
+    border: none;/*去除默认边框*/
+	font-family:"仓耳舒圆体W03";
+	font-size:22px;
+	color:#fff;
+	background-color:#f9e9e6;
+	padding-left:10px;
+	padding-bottom:10px;
+	padding-top:10px;
+	padding-right:20px;
+	margin-left:40px;
+	
+    }
+    thead th{
+		background-color: #ffffff15;
+        color: #3e3c3c;
+    }
+	tr td:first-child{
+		background-color: #ffffff15;
+        color: #3e3c3c;
+		text-align:center
+    }
+	tr td:nth-child(2){
+		background-color: #ffffff15;
+        color: #3e3c3c;
+		width:460px
+		
+    }
+	tr td:nth-child(3){
+		background-color: #ffffff15;
+        color: #3e3c3c;
+		width:120px
+    }
+    tbody tr:nth-child(2n){
+		background-color: #ffffff15;
+        cursor: pointer;
+    }
+	tbody tr:nth-child(1){
+		background-color: #ffffff15;
+        text-align:center
+    }
+    tbody tr:nth-child(2n-1){
+        background-color: #ffffff15;
+        cursor: pointer;/*鼠标放上去后变成小手*/
+    }
+
+
+
+.jw{
+	font-family:"仓耳舒圆体W03";
+	padding-top:20px;
+	text-align: center;
+	font-size:20px;
+	color:#3e3c3c;
+	
+}
