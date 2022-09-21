@@ -19,7 +19,7 @@ if (!await redis.get('Yz:fen:config:notfirstusefen')) {
   // 获取主人qq号
   let masterqq = cfg.getConfig('other').masterQQ[0]
   // 给主人发送配置教程
-  Bot.pickFriend(masterqq).sendMsg(`欢迎使用粉酱插件V${plugininfo_default.version}\n配置教程\n粉酱插件配置教程\ncookie绑定指南：https://blog.litefen.com/all/bbscookie.html\n所有功能详细使用指南：https://blog.litefen.com/all/yunzaihelp.html`)
+  Bot.pickFriend(masterqq).sendMsg(`欢迎使用粉酱插件V${plugininfo_default.version}\n粉酱插件地址\nhttps://github.com/litefen/fenplugin-v3`)
   await redis.set('Yz:fen:config:notfirstusefen', '1')
 }
 
