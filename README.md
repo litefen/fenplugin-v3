@@ -45,6 +45,11 @@ git clone --depth=1 https://github.com/litefen/fenplugin-v3.git ./plugins/fenplu
 git clone --depth=1 https://gitee.com/litefen/fenplugin-v3.git ./plugins/fenplugin-v3/
 ```
 ### 💻 更新
+暂时仅支持手动更新
+/Yunzai-Bot目录执行
+```bash
+ cd /plugins/fenplugin-v3/;git pull
+```
 敬请期待。。。
 ## 🤹 当前功能
 敬请期待。。。
