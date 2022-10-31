@@ -8,7 +8,7 @@ export class fenhelp extends plugin {
       name: 'fenhelp',
       dsc: '小粉的同款帮助，插件地址',
       event: 'message',
-      priority: 50,
+      priority: 5000,
       rule: [
         {
           reg: '^#*(粉酱|小粉)(帮助|命令|菜单|help|说明|功能|指令)$',
@@ -31,7 +31,7 @@ export class fenhelp extends plugin {
   async fenhelp(e) {
     this.reply('发送【#粉酱使用帮助】查看每个功能的演示（补齐中。。。）', true, { at: true })
     /** 回复 */
-    let url = `${_path}/plugins/fenplugin-v3/resources/img/help.png`
+    // let url = `${_path}/plugins/fenplugin-v3/resources/img/help.png`
     
     let msg = [
       segment.image(url),];
